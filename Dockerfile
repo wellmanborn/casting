@@ -1,7 +1,7 @@
 # ============================
 # 1?? Base image
 # ============================
-FROM directus/directus:10.12.2
+FROM directus/directus:latest
 
 # ============================
 # 2?? Set working directory
